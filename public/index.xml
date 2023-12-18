@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ananke: jul tema on Menu</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Ananke: jul tema on Menu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adventskalender och adventsljus</title>
+      <link>http://localhost:1313/jul-info/advent/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/jul-info/advent/</guid>
+      <description> Svenskar firar ofta adventstiden med adventskalendrar och öppnar en numrerad dörr eller gåva varje dag fram till jul. Adventsljus är också populära, med ett ljus tänt varje söndag i december. </description>
+    </item>
+    <item>
+      <title>Gör-det-själv julgodis</title>
+      <link>http://localhost:1313/present-id%C3%A9/present2/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/present-id%C3%A9/present2/</guid>
+      <description> Sätt ihop en festlig burk med hembakade kakor, kakaoblandning eller julsnacks. </description>
+    </item>
+    <item>
+      <title>Julkalender</title>
+      <link>http://localhost:1313/jul-info/julkalender/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/jul-info/julkalender/</guid>
+      <description>Julkalendern är en serie TV-avsnitt som sänds dagligen fram till jul, med start den 1 december. Varje avsnitt innehåller vanligtvis en novell, ofta med ett festligt eller äventyrligt tema, och är utformad för att bygga upp spänningen inför semestern.&#xA;Svenskar, särskilt barnfamiljer, ser fram emot att titta på julkalendern tillsammans varje kväll. Dessa program är skapade speciellt för julen och är en omhuldad del av jultraditionen i Sverige. Julkalendern är ofta en blandning av underhållning, berättande och ibland pedagogiskt innehåll, vilket skapar en festlig atmosfär i hushåll över hela landet.</description>
+    </item>
+    <item>
+      <title>Julmarknad</title>
+      <link>http://localhost:1313/jul-info/julmarknad/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/jul-info/julmarknad/</guid>
+      <description> Julmarknader är vanliga i hela Sverige, med stånd som säljer hantverk, julgodis och festliga dekorationer. Det är en plats där du kan njuta av semesterstämningen, handla presenter och njuta av traditionell svensk mat. </description>
+    </item>
+    <item>
+      <title>Kalle Anka</title>
+      <link>http://localhost:1313/jul-info/kalle/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/jul-info/kalle/</guid>
+      <description>Att se Kalle Anka på julafton är en älskad och närmast ikonisk tradition i Sverige. Föreställningen är &amp;ldquo;Kalle Anka och hans vänner önskar God Jul&amp;rdquo;. Det är en sammanställning av Disneys tecknade filmer som sänds i SVT varje år den 24 december kl 15.00.&#xA;Denna tradition går tillbaka till 1959 när sändning av tecknade Disney-filmer på julafton blev en populär vana bland svenska familjer. Showen innehåller vanligtvis klassiska Disney-kortfilmer och tecknade serier med karaktärer som Kalle Anka, Musse Pigg, Långben och andra.</description>
+    </item>
+    <item>
+      <title>Luciadagen</title>
+      <link>http://localhost:1313/jul-info/lucia/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/jul-info/lucia/</guid>
+      <description> Luciadagen, som firas den 13 december, hedrar Sankta Lucia, en kristen martyr. Dagen markeras av en procession ledd av en ung flicka klädd i en vit klänning med ett rött skärp och en krona av ljus på huvudet. Processionen ackompanjeras av sång av traditionella luciasånger. </description>
+    </item>
+    <item>
+      <title>Mysiga filtar eller plädar</title>
+      <link>http://localhost:1313/present-id%C3%A9/present3/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/present-id%C3%A9/present3/</guid>
+      <description> Värm dig med en mjuk och mysig filt, kanske personlig med initialer. </description>
+    </item>
+    <item>
+      <title>Personliga prydnadsföremål</title>
+      <link>http://localhost:1313/present-id%C3%A9/present1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/present-id%C3%A9/present1/</guid>
+      <description> Skapa eller köp prydnadsföremål med mottagarens namn eller ett speciellt meddelande. </description>
+    </item>
+    <item>
+      <title>Tekniska prylar</title>
+      <link>http://localhost:1313/present-id%C3%A9/present4/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/present-id%C3%A9/present4/</guid>
+      <description> Utforska prylar som trådlösa hörlurar, smarta hemenheter eller träningsspårare. </description>
+    </item>
+  </channel>
+</rss>

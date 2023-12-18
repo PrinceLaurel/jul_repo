@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Present idé on Menu</title>
+    <link>http://localhost:1313/present-id%C3%A9/</link>
+    <description>Recent content in Present idé on Menu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/present-id%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gör-det-själv julgodis</title>
+      <link>http://localhost:1313/present-id%C3%A9/present2/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/present-id%C3%A9/present2/</guid>
+      <description> Sätt ihop en festlig burk med hembakade kakor, kakaoblandning eller julsnacks. </description>
+    </item>
+    <item>
+      <title>Mysiga filtar eller plädar</title>
+      <link>http://localhost:1313/present-id%C3%A9/present3/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/present-id%C3%A9/present3/</guid>
+      <description> Värm dig med en mjuk och mysig filt, kanske personlig med initialer. </description>
+    </item>
+    <item>
+      <title>Personliga prydnadsföremål</title>
+      <link>http://localhost:1313/present-id%C3%A9/present1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/present-id%C3%A9/present1/</guid>
+      <description> Skapa eller köp prydnadsföremål med mottagarens namn eller ett speciellt meddelande. </description>
+    </item>
+    <item>
+      <title>Tekniska prylar</title>
+      <link>http://localhost:1313/present-id%C3%A9/present4/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/present-id%C3%A9/present4/</guid>
+      <description> Utforska prylar som trådlösa hörlurar, smarta hemenheter eller träningsspårare. </description>
+    </item>
+  </channel>
+</rss>
