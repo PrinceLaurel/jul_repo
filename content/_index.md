@@ -15,8 +15,4 @@ cascade:
 </style>
 Välkommen till FröjdFröjdHörna! 🌟
 
-<<<<<<< HEAD
 Denna lilla vrå är fylld med glädje och stunder av fröjd, där varje pärla av ögonblick är en hyllning till det bästa av julen. Utforska traditioner, upptäck överraskningar och låt dig förtrollas av den magiska atmosfären. FröjdFröjdHörna är din plats för glädje, värme och festliga äventyr. Välkommen till en värld av julglädje!
-=======
-Denna lilla vrå är fylld med glädje och stunder av fröjd, där varje pärla av ögonblick är en hyllning till det bästa av julen. Utforska traditioner, upptäck överraskningar och låt dig förtrollas av den magiska atmosfären. FröjdFröjdHörna är din plats för glädje, värme och festliga äventyr. Välkommen till en värld av julglädje!
->>>>>>> 9731d3a5615531494096244300c7ce2d660989a0
